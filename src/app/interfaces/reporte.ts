@@ -5,4 +5,5 @@ export interface Reporte {
   file_json: string;
   id: string;
   file_xlsx: string;
+  file_zip: string;
 }

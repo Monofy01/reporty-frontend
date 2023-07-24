@@ -7,4 +7,7 @@ export const environment = {
     authDomain: 'reporty-front.firebaseapp.com',
     messagingSenderId: '343624973578',
   },
+  url_lambda: {
+    dev: 'https://qm1u6a8nza.execute-api.us-east-1.amazonaws.com/'
+  }
 };
